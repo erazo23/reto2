@@ -15,7 +15,7 @@ body{
 main{
     width: 80%;
     height: 70%;
-    margin-top: 15%;
+    margin-top: 10%;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
@@ -88,6 +88,8 @@ main{
     align-items: center;
 }
 
+
+
 .profile .share-icon{
     display: flex;
     background-color: rgb(231, 231, 231);
@@ -115,7 +117,7 @@ main{
 .sharing{
     display: none;
     background-color: hsl(217, 19%, 35%);
-    height: 60px;
+    height: 85px;
     align-items: center;
     color: rgb(156, 156, 156);
     font-size: 0.7em;
